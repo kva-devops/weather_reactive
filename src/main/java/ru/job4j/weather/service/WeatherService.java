@@ -5,9 +5,7 @@ import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 import ru.job4j.weather.model.Weather;
 
-import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
